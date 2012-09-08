@@ -1,0 +1,3 @@
+[submodule "root/iso8601.js"]
+	path = root/iso8601.js
+	url = https://github.com/shumpei/iso8601.js.git
