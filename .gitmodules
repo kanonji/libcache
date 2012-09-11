@@ -4,3 +4,15 @@
 [submodule "root/jquery/jquery-throttle-debounce"]
 	path = root/jquery/jquery-throttle-debounce
 	url = https://github.com/cowboy/jquery-throttle-debounce.git
+[submodule "root/jquery/jquery-cookie"]
+	path = root/jquery/jquery-cookie
+	url = https://github.com/carhartl/jquery-cookie.git
+[submodule "root/jquery/maximage"]
+	path = root/jquery/maximage
+	url = https://github.com/akv2/MaxImage.git
+[submodule "root/jquery/nivo-slider"]
+	path = root/jquery/nivo-slider
+	url = https://github.com/gilbitron/Nivo-Slider.git
+[submodule "root/jquery/bxslider"]
+	path = root/jquery/bxslider
+	url = https://github.com/wandoledzep/bxslider.git
