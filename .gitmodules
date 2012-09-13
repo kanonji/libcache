@@ -25,3 +25,6 @@
 [submodule "root/jquery/grumble.js"]
 	path = root/jquery/grumble.js
 	url = https://github.com/jamescryer/grumble.js.git
+[submodule "root/jquery/lettering.js"]
+	path = root/jquery/lettering.js
+	url = https://github.com/davatron5000/Lettering.js.git
