@@ -16,3 +16,6 @@
 [submodule "root/jquery/bxslider"]
 	path = root/jquery/bxslider
 	url = https://github.com/wandoledzep/bxslider.git
+[submodule "root/jquery/jquery-waypoints"]
+	path = root/jquery/jquery-waypoints
+	url = https://github.com/imakewebthings/jquery-waypoints.git
