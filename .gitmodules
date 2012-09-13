@@ -28,3 +28,6 @@
 [submodule "root/jquery/lettering.js"]
 	path = root/jquery/lettering.js
 	url = https://github.com/davatron5000/Lettering.js.git
+[submodule "root/css/normalize.css"]
+	path = root/css/normalize.css
+	url = https://github.com/necolas/normalize.css
