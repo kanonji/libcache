@@ -22,3 +22,6 @@
 [submodule "root/jquery/jquery-pageslide"]
 	path = root/jquery/jquery-pageslide
 	url = https://github.com/srobbin/jquery-pageslide.git
+[submodule "root/jquery/grumble.js"]
+	path = root/jquery/grumble.js
+	url = https://github.com/jamescryer/grumble.js.git
