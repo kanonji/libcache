@@ -37,3 +37,6 @@
 [submodule "root/jquery/path"]
 	path = root/jquery/path
 	url = https://github.com/weepy/jquery.path.git
+[submodule "root/jquery/malihu-custom-scrollbar-plugin"]
+	path = root/jquery/malihu-custom-scrollbar-plugin
+	url = https://github.com/malihu/malihu-custom-scrollbar-plugin.git
