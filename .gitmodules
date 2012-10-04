@@ -34,3 +34,6 @@
 [submodule "root/gmaps"]
 	path = root/gmaps
 	url = https://github.com/HPNeo/gmaps.git
+[submodule "root/jquery/path"]
+	path = root/jquery/path
+	url = https://github.com/weepy/jquery.path.git
