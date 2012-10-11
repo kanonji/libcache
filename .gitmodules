@@ -43,3 +43,6 @@
 [submodule "root/bonsai"]
 	path = root/bonsai
 	url = https://github.com/uxebu/bonsai.git
+[submodule "root/avgrund"]
+	path = root/avgrund
+	url = https://github.com/hakimel/Avgrund.git
