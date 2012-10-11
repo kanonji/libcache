@@ -40,3 +40,6 @@
 [submodule "root/jquery/malihu-custom-scrollbar-plugin"]
 	path = root/jquery/malihu-custom-scrollbar-plugin
 	url = https://github.com/malihu/malihu-custom-scrollbar-plugin.git
+[submodule "root/bonsai"]
+	path = root/bonsai
+	url = https://github.com/uxebu/bonsai.git
