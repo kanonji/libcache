@@ -46,3 +46,6 @@
 [submodule "root/avgrund"]
 	path = root/avgrund
 	url = https://github.com/hakimel/Avgrund.git
+[submodule "root/jquery/jail"]
+	path = root/jquery/jail
+	url = https://github.com/sebarmeli/JAIL.git
