@@ -49,6 +49,3 @@
 [submodule "root/jquery/jail"]
 	path = root/jquery/jail
 	url = https://github.com/sebarmeli/JAIL.git
-[submodule "root/jquery/powertip"]
-	path = root/jquery/powertip
-	url = https://github.com/stevenbenner/jquery-powertip.git
