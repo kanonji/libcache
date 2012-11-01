@@ -52,3 +52,6 @@
 [submodule "root/jquery/tipsy"]
 	path = root/jquery/tipsy
 	url = https://github.com/jaz303/tipsy.git
+[submodule "root/uniform"]
+	path = root/uniform
+	url = https://github.com/pixelmatrix/uniform.git
