@@ -52,3 +52,6 @@
 [submodule "root/jquery/tipsy"]
 	path = root/jquery/tipsy
 	url = https://github.com/jaz303/tipsy.git
+[submodule "root/uni-form"]
+	path = root/uni-form
+	url = https://github.com/draganbabic/uni-form.git
