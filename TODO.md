@@ -21,3 +21,7 @@ jQuery GoogleMaps V3 plugin
 ### https://github.com/gristmill/jquery-popbox
 
 jQuery PopBox UI Element
+
+## Tooltip
+
+### http://code.drewwilson.com/entry/tiptip-jquery-plugin
