@@ -25,3 +25,7 @@ jQuery PopBox UI Element
 ## Tooltip
 
 ### http://code.drewwilson.com/entry/tiptip-jquery-plugin
+
+## Other
+
+### http://code.google.com/p/ajaxzip3/
