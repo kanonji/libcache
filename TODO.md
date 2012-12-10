@@ -29,3 +29,4 @@ jQuery PopBox UI Element
 ## Other
 
 ### http://code.google.com/p/ajaxzip3/
+### http://joelb.me/scrollpath/
