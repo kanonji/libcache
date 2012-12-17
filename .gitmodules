@@ -61,3 +61,6 @@
 [submodule "root/jquery/supersized"]
 	path = root/jquery/supersized
 	url = https://github.com/buildinternet/supersized.git
+[submodule "root/jquery/jquery.mb.gallery"]
+	path = root/jquery/jquery.mb.gallery
+	url = https://github.com/pupunzi/jquery.mb.gallery.git
