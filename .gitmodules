@@ -55,3 +55,6 @@
 [submodule "root/uni-form"]
 	path = root/uni-form
 	url = https://github.com/draganbabic/uni-form.git
+[submodule "root/jquery/GalleryView"]
+	path = root/jquery/GalleryView
+	url = https://github.com/jackwanders/GalleryView.git
