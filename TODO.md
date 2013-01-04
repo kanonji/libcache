@@ -30,3 +30,7 @@ jQuery PopBox UI Element
 
 ### http://code.google.com/p/ajaxzip3/
 ### http://joelb.me/scrollpath/
+
+## css
+
+### http://vitalets.github.com/bootstrap-editable/
