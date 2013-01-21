@@ -31,7 +31,9 @@ jQuery PopBox UI Element
 ### http://code.google.com/p/ajaxzip3/
 ### http://joelb.me/scrollpath/
 ### https://github.com/jonrohan/ZeroClipboard
+### https://github.com/mbostock/d3
 
 ## css
 
 ### http://vitalets.github.com/bootstrap-editable/
+
