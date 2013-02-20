@@ -67,3 +67,6 @@
 [submodule "root/bootstrap/bootstrap-datepicker"]
 	path = root/bootstrap/bootstrap-datepicker
 	url = git://github.com/eternicode/bootstrap-datepicker.git
+[submodule "root/bootstrap/bootstrap-datetimepicker"]
+	path = root/bootstrap/bootstrap-datetimepicker
+	url = git://github.com/tarruda/bootstrap-datetimepicker.git
