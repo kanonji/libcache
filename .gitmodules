@@ -64,3 +64,6 @@
 [submodule "root/jquery/jquery.mb.gallery"]
 	path = root/jquery/jquery.mb.gallery
 	url = https://github.com/pupunzi/jquery.mb.gallery.git
+[submodule "root/bootstrap/bootstrap-datepicker"]
+	path = root/bootstrap/bootstrap-datepicker
+	url = git://github.com/eternicode/bootstrap-datepicker.git
