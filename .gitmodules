@@ -73,3 +73,6 @@
 [submodule "root/bootstrap/bootstrap-timepicker"]
 	path = root/bootstrap/bootstrap-timepicker
 	url = git://github.com/jdewit/bootstrap-timepicker.git
+[submodule "root/bootstrap/magicsuggest"]
+	path = root/bootstrap/magicsuggest
+	url = https://github.com/nicolasbize/magicsuggest.git
