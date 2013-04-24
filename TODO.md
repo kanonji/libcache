@@ -33,6 +33,7 @@ jQuery PopBox UI Element
 ### https://github.com/jonrohan/ZeroClipboard
 ### https://github.com/mbostock/d3
 ### http://justgage.com/
+### http://rmm5t.github.io/jquery-sieve/
 
 ## css
 
