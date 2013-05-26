@@ -34,6 +34,7 @@ jQuery PopBox UI Element
 ### https://github.com/mbostock/d3
 ### http://justgage.com/
 ### http://rmm5t.github.io/jquery-sieve/
+### http://tricknotes.hateblo.jp/entry/2013/05/24/023453
 
 ## css
 
