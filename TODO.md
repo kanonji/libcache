@@ -40,3 +40,7 @@ jQuery PopBox UI Element
 
 ### http://vitalets.github.com/bootstrap-editable/
 
+## Bootstrap
+
+* https://github.com/tarruda/bootstrap-datetimepicker
+  * removed becase of broken submodule.
