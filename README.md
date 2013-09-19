@@ -9,6 +9,8 @@ http://www.asp.net/ajaxlibrary/cdn.ashx
 http://cdnjs.com/
 - Bootstrap CDN
 http://netdna.bootstrapcdn.com/
+- jsDelivr
+http://www.jsdelivr.com/
 
 - self
 http://libcache.herokuapp.com/
