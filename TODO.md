@@ -45,3 +45,7 @@ jQuery PopBox UI Element
 * https://github.com/tarruda/bootstrap-datetimepicker
   * removed becase of broken submodule.
 * http://bootstraptour.com/
+
+## SVG
+
+* http://snapsvg.io/
