@@ -73,3 +73,6 @@
 [submodule "root/bootstrap/magicsuggest"]
 	path = root/bootstrap/magicsuggest
 	url = https://github.com/nicolasbize/magicsuggest.git
+[submodule "root/mersennetwister"]
+	path = root/mersennetwister
+	url = https://github.com/pigulla/mersennetwister.git
